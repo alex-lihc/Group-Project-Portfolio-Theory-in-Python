@@ -48,3 +48,5 @@ Currently, the analysis are done based on stock price data from 2018-01-01 to 20
 
 > Goetzmann, W. N., Brown, S. J., Gruber, M. J., & Elton, E. J. (2014). Modern portfolio theory and investment analysis. John Wiley & Sons, 237.
 
+> BODIE, Z., KANE, A., & MARCUS, A. J. (2018). Investments.
+
