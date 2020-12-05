@@ -21,14 +21,21 @@ This project is aimed to conduct the fiancial portfolio theory with python. We a
 All steps have been tested on windows platform and anaconda. 
 
 Notice you need to import every packages before runing the codes.
-Following packages are needed:
+Following required versions for packages are needed:
 
-pandas
-numpy
-pandas_datareader
+python 3.7.9
+
+pandas 1.1.3
+
+numpy 1.19.2
+
+pandas_datareader 0.9.0
+
 datetime
-matplotlib
-scipy
+
+matplotlib  3.3.2
+
+scipy 1.5.3
 
 
 ## Data
