@@ -24,7 +24,7 @@ Notice you need to import every packages before runing the codes.
 
 ## Data
 
-Currently, the analysis are done based on stock price data from 2018-01-01 to the end of November, 2020. 
+Currently, the analysis are done based on stock price data from 2018-01-01 to 2020-11-30. 
 
 ## Source
 
