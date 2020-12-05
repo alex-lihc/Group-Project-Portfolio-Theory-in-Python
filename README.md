@@ -20,7 +20,7 @@ This project is aimed to conduct the fiancial portfolio theory with python. We a
 
 All steps have been tested on windows platform and anaconda. 
 
-Notice you need to import every packages before runing the codes.
+Notice you need to import every packages before running the codes.
 Following required versions for packages are needed:
 
 python 3.7.9
