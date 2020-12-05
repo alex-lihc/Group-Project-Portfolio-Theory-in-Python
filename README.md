@@ -24,7 +24,7 @@ Notice you need to import every packages before runing the codes.
 
 ## Data
 
-Currently, the analysis are done based on stock price data from 2018-01-01 to the end of November, 2020. As the data collecting set the end date as the most recent date, it could automatically update the results, which is one of the advantage we want to deliver. So, don't be confused if the results are not matched.
+Currently, the analysis are done based on stock price data from 2018-01-01 to the end of November, 2020. 
 
 ## Source
 
