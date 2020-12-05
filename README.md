@@ -45,5 +45,6 @@ Currently, the analysis are done based on stock price data from 2018-01-01 to 20
 ## Source
 
 > [Mean_Variance_Portfolio_Optimisation](https://github.com/JoBe10/Mean_Variance_Portfolio_Optimisation/blob/master/Efficient_Frontiers_Cryptos.ipynb)
+
 > Goetzmann, W. N., Brown, S. J., Gruber, M. J., & Elton, E. J. (2014). Modern portfolio theory and investment analysis. John Wiley & Sons, 237.
 
