@@ -14,7 +14,7 @@ Li, Haochen
 
 ## Project Description
 
-This project is aimed to conduct the fiancial portfolio theory with python. We are going to collect data for some randomly chosen U.S. stocks and visualize their time series. After calculating important statistics for these stocks, we are going to compute and visualize mean-variance portfolio optimization with two different methods. At the end, we compare the investment performance of different portfolios.
+This project is aimed to conduct the financial portfolio theory with python. We are going to collect data for some randomly chosen U.S. stocks and visualize their time series. After calculating important statistics for these stocks, we are going to compute and visualize mean-variance portfolio optimization with two different methods. At the end, we compare the investment performance of different portfolios.
 
 ## Instruction
 
